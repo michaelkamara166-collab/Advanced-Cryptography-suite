@@ -1,0 +1,6 @@
+Hello,
+
+This is a sample file for the Advanced Cryptography Suite internship project.
+
+Author:
+Michael Alfred Francis Kamara

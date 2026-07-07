@@ -1,0 +1,8 @@
+KEY_SIZE = 2048
+AES_KEY_SIZE = 32
+AES_BLOCK_SIZE = 16
+
+KEY_FOLDER = "keys"
+ENCRYPTED_FOLDER = "encrypted"
+DECRYPTED_FOLDER = "decrypted"
+LOG_FOLDER = "logs"
